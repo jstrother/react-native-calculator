@@ -7,6 +7,14 @@ export default {
   displayContainer: {
     flex: 2,
     backgroundColor: '#193441',
+    justifyContent: 'center',
+  },
+  displayText: {
+    color: 'white',
+    fontSize: 38,
+    fontWeight: 'bold',
+    textAlign: 'right',
+    padding: 20,
   },
   inputContainer: {
     flex: 8,
@@ -23,6 +31,9 @@ export default {
     fontSize: 22,
     fontWeight: 'bold',
     color: 'white',
+  },
+  inputButtonHighlighted: {
+    backgroundColor: '#193441'
   },
   inputRow: {
     flex: 1,
