@@ -1,4 +1,4 @@
-package com.reactnativecalculator;
+package com.reactNativeCalculator;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

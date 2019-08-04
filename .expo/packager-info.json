@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": "https://vb-p2p.anonymous.reactnativecalculator.exp.direct",
-  "packagerNgrokUrl": "https://packager.vb-p2p.anonymous.reactnativecalculator.exp.direct",
-  "ngrokPid": 20568
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8868,
+  "expoServerNgrokUrl": "https://vb-p2p.anonymous.reactNativeCalculator.exp.direct",
+  "packagerNgrokUrl": "https://packager.vb-p2p.anonymous.reactNativeCalculator.exp.direct",
+  "ngrokPid": 8632
 }
